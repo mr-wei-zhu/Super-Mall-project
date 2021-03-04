@@ -1,6 +1,6 @@
 <template>
   <div id="profile">
-    <navbar class="profileTop"><div slot="center">中心</div></navbar>
+    <navbar class="profileTop"><div slot="center">个人中心</div></navbar>
     <user></user>
     <section class="account">
       <div class="account-item">
